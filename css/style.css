@@ -1,3 +1,10 @@
+
+$primary: #900;
+$enable-shadows: true;
+$prefix: "mo-";
+
+@import "../node_modules/bootstrap/scss/bootstrap";
+
 .gradient-background {
   background: linear-gradient(300deg, #00bfff, #ff4c68, #ef8172);
   background-size: 180% 180%;
